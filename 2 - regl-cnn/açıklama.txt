@@ -1,0 +1,6 @@
+Bu proje, 2 farklı yapının birleşiminden oluşmaktadır. Bu yapılar şunlardır:
+    - Create-CNN:
+        - Projenin bu kısmında, Python ile MNIST veri seti kullanılanarak el ile yazılmış rakamları algılayan bir evrişimli sinir ağı (CNN) oluşturulmuş ve binary dosyası olarak çıktı alınmıştır.
+    - Use-CNN:
+        - Javascript ile bir web arayüzü yazılmıştır. El ile yazılmış rakamların görüntüsünü python ile oluşturulan CNN.bin dosyasına girdi olarak verip yapay zekadan yanıt alınmıştır. 
+Tüm bunların sonucunda; İnternet sayfası üzerinde, kullanıcı tarafında çalışabilen; el yazısıyla oluşturulmuş rakamları anlayabilen bir yapay zeka üretilmiştir.

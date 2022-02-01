@@ -1,0 +1,26 @@
+Google-Search-Skill
+Html
+Javascript
+    NPM
+        Import
+            Regl
+            Budo
+            Cwise
+            Ndarray
+            Resl
+            Standard
+            Zeros
+    Canvas-Manipulation
+    Event-Listener
+    DOM-Manipulation
+Python
+    Import
+        Numpy
+        Tensorflow
+            MNIST
+            Export-To-Bin
+        Struct
+        Math
+CNN
+
+Hocam iyi akşamlar. SkillFit için 2 adet projeye etiketleme yaptım. 0 nolu projede kendi projemi etiketledim ve bir de karşılaştırma olması açısından hiç bilmediğim bir projeyi seçip etiketlemesini yaptım.

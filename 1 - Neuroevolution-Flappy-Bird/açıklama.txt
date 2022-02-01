@@ -1,0 +1,8 @@
+Bu proje, 3 farklı yapının birleşiminden oluşmaktadır. Bu yapılar şunlardır:
+    - Flappy-Bird:
+        - p5.js isimli javascript kütüphanesi kullanılarak html canvasta çalışmak üzere flappy bird oyunu geliştirilmiştir.
+    - Neural-Network:
+        - Perceptron'ları Matrixler halinde birleştirerek bir ağ oluşturulmuştur.
+    - Evolution-Algorithm:
+        - Neural Networklerin puanlanması ve her jenerasyonda en iyilerinin seçilip bir sonraki jenerasyona aktarılması mantığı ile bir öğretim algoritması geliştirilmiştir.
+Tüm bunların sonunda; kendi kendine flappy bird oyununda hayatta kalabilen bir yapay zeka ortaya çıkartılmıştır.
